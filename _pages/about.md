@@ -12,8 +12,8 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
 ---
+
 I currently am a Silicon Design Engineer 2 at AMD, where I help in developing high-performance GEMM kernels for AMD Instinct GPUs. My current work focuses on pushing the boundaries of hardware efficiency by optimizing performance and resource utilization across various kernels, ensuring peak computational throughput for AI and HPC workloads.
 
 With a career rooted in both hardware architectures and system software, I previously served as a Graphics Performance Engineer at Intel. There, I led initiatives in performance verification for GPU compute clusters (specifically thread dispatch and L1 cache), developing test content for measuring and validating peak performance for these RTL units, and creating automations and tools to improve PV efficiency.

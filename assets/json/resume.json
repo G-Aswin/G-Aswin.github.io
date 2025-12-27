@@ -132,52 +132,31 @@
       "name": "Low Level Programming",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "GPU Kernels",
-        "CUDA, HIP ROCm ",
-        "C, C++ Programming"
-      ]
+      "keywords": ["GPU Kernels", "CUDA, HIP ROCm ", "C, C++ Programming"]
     },
     {
       "name": "Scripting and Automation",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Shell Scripting",
-        "Selenium"
-      ]
+      "keywords": ["Python", "Shell Scripting", "Selenium"]
     },
     {
       "name": "GPU Architecture and RTL Debugs",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Intel Xe Architecture",
-        "AMD CDNA",
-        "Waveform Debugs with Verdi",
-        "Performance Verification"
-      ]
+      "keywords": ["Intel Xe Architecture", "AMD CDNA", "Waveform Debugs with Verdi", "Performance Verification"]
     },
     {
       "name": "Backend Development",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python - Flask",
-        "REST APIs",
-        "PostgreSQL, SQLite, MongoDB"
-      ]
+      "keywords": ["Python - Flask", "REST APIs", "PostgreSQL, SQLite, MongoDB"]
     },
     {
       "name": "Compilers and System Software",
       "level": "Beginner",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "GCC Compiler",
-        "RISC-V Architecture",
-        "LLVM - Still Learning..."
-      ]
+      "keywords": ["GCC Compiler", "RISC-V Architecture", "LLVM - Still Learning..."]
     }
   ],
   "languages": [
@@ -264,9 +243,7 @@
     {
       "name": "Simulating a Deterministic Finite Automata in ARM7 Machine Code",
       "summary": "ARM, Keil uVision IDE",
-      "highlights": [
-        " Instructions written in ARM assembly language for ARM7 (Big Endian) architecture in Keil UVision4 IDE."
-      ],
+      "highlights": [" Instructions written in ARM assembly language for ARM7 (Big Endian) architecture in Keil UVision4 IDE."],
       "startDate": "2021-07",
       "endDate": "2021-09",
       "url": "https://github.com/G-Aswin/DFA_keil"
