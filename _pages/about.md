@@ -13,15 +13,6 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 I currently am a Silicon Design Engineer 2 at AMD, where I help in developing high-performance GEMM kernels for AMD Instinct GPUs. My current work focuses on pushing the boundaries of hardware efficiency by optimizing performance and resource utilization across various kernels, ensuring peak computational throughput for AI and HPC workloads.
 
