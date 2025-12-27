@@ -1,3 +1,5 @@
+Forked project from the very popular Jekyll theme https://github.com/alshedivat/al-folio
+
 # Installation
 - Install Ruby with ridk, gem, bundler
 - Install jupyter within pip
