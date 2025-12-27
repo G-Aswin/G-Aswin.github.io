@@ -96,7 +96,7 @@ export JEKYLL_ENV=production
 bundle exec jekyll build
 
 # Purge unused css
-npx purgecss -c purgecss.config.js
+npx purgecss --content "_site/**/*.html" "_site/**/*.js" --css "_site/assets/css/*.css" --output "_site/assets/css/" -k "_site/assets/**/*.html"
 
 # Delete and move files
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
