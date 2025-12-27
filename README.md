@@ -2,6 +2,9 @@
 - Install Ruby with ridk, gem, bundler
 - Install jupyter within pip
 
-# Run commands
-- bundle install
-- bundle exec jekyll serve
+# Run commands to locally test
+- `bundle install`
+- `bundle exec jekyll serve`
+
+# Deployment
+- `bin/deploy --user`
