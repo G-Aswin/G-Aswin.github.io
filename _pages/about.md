@@ -2,33 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Silicon Design Engineer 2 at AMD
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I currently am a Silicon Design Engineer 2 at AMD, where I help in developing high-performance GEMM kernels for AMD Instinct GPUs. My current work focuses on pushing the boundaries of hardware efficiency by optimizing performance and resource utilization across various kernels, ensuring peak computational throughput for AI and HPC workloads.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With a career rooted in both hardware architectures and system software, I previously served as a Graphics Performance Engineer at Intel. There, I led initiatives in performance verification for GPU compute clusters (specifically thread dispatch and L1 cache), developing test content for measuring and validating peak performance for these RTL units, and creating automations and tools to improve PV efficiency.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I've done my B.E. in Computer Science from RNS Institute of Technology. I have a deep-seated interest in computer architecture and compilers as well. I've done a short research internship around RISC-V GCC compiler and also participated in the Winter Systems School conducted by IIT Delhi about Compilers and Distributed Computing. From assembly-level optimizations to architecting distributed systems, I am driven by the challenge of making hardware faster and software more efficient.
+
+If you're interested in any of things that I am (or just want to have a random conversation), feel free to reach out to me through any of the socials listed below for a chat!
