@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - G-Aswin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - G-Aswin/G-Aswin.github.io
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
