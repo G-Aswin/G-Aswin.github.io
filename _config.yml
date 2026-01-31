@@ -143,8 +143,6 @@ collections:
     defaults:
       layout: post
     output: false
-  projects:
-    output: false
   teachings:
     output: false
 
